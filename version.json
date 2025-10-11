@@ -1,1 +1,16 @@
-{"app_name":"election","version":"1.0.0","build_number":"1","package_name":"election"}
+{"app_name":"election",
+  
+  "version":"1.0.0",
+  
+  "build_number":"1",
+  "package_name":"election",
+
+  
+  "parties": 1,
+  "districts": 1,
+  "candidates": 1
+
+
+
+
+}
