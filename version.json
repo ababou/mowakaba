@@ -4,11 +4,13 @@
   
   "build_number":"1",
   "package_name":"election",
-
   
   "parties": 1,
-  "districts": 1,
-  "candidates": 1
+
+  "regions_version": "1",
+  "provinces_version": "1",
+  "parties_version": "1"
+
 
 
 
